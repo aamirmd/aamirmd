@@ -1,7 +1,7 @@
 # Hi👋 I'm Mohamed Aamir
 
 ## 🚀 About Me
-I am a passionate learner with a drive to build positively impactful software.
+I am a passionate learner with a strong drive to build positively impactful software.
 
 ## 🔭 What I'm up to
 
