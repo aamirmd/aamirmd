@@ -1,7 +1,7 @@
 # Hi👋 I'm Mohamed Aamir
 
 ## 🚀 About Me
-I am a passionate learner with a strong drive to build positively impactful software.
+I am an AI/ML engineer with MSCS-ML from Georgia Tech and experience building GenAI applications.
 
 ## 🔭 What I'm up to
 
